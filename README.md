@@ -29,7 +29,7 @@ In this crucial stage, I focused on identifying and rectifying data quality issu
 
 * **I addressed the data cleaning for this dataset by identifying and handling missing values, ensuring correct data types were applied, standardising text entries like product categories, removing any duplicate records, and carefully treating outliers to prepare the data for accurate analysis.**
 
-  [RetailTech Insight](RETAIL TECH INSIGHT.xlsx)
+  [RetailTech Insight](https://github.com/Ogundele-Abimbolu/DSA-AMAZON-PROJECT/blob/main/RETAIL%20TECH%20INSIGHT.xlsx)
 
 ### 3. Data Validation & Export
 
@@ -39,8 +39,7 @@ Before moving to the dashboard phase, the transformed dataset underwent final va
 * **Export Format:** Data was exported as CSV files.
 
 ## Dashboard
- ![Dashboard](AMAZON DASHBOARD.PNG) ,
-
+![Amazon Dashboard Overview](https://example.com/images/amazon-dashboard-final.png "Amazon Sales Dashboard](https://example.com/images/amazon-dashboard-final.png "Amazon Sales Dashboard)
 ## Tools Used
 
 * **Excel**
