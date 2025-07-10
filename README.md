@@ -39,7 +39,7 @@ Before moving to the dashboard phase, the transformed dataset underwent final va
 * **Export Format:** Data was exported as CSV files.
 
 ## Dashboard
-![Amazon Dashboard Overview](https://example.com/images/amazon-dashboard-final.png "Amazon Sales Dashboard](https://example.com/images/amazon-dashboard-final.png "Amazon Sales Dashboard)
+![Discount Percentage by Category Chart](./images/https://github.com/Ogundele-Abimbolu/DSA-AMAZON-PROJECT/blob/main/AMAZON%20DASHBOARD.PNG)
 ## Tools Used
 
 * **Excel**
