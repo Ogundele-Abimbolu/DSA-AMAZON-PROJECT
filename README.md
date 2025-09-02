@@ -66,4 +66,4 @@ The rigorous data preparation process described above was fundamental in creatin
 Abimbolu Ogundele
 
 - [LinkedIn](https://www.linkedin.com/in/abimbolu-ogundele-299b71329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: [ogundeleabimbolu@gmail.com](ogundeleabimbolu@gmail.com)
+- Email: [ogundeleab2020@gmail.com](ogundeleab2020@gmail.com)
